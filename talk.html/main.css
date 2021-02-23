@@ -5,27 +5,27 @@
   2021-02-22
 */
 
+/* Styles all h2 elements with the color cyan */
 h1 {
     color: #73FFEE 
 }
-
-
+/* Styles all h2 elements with the color green */
 h2 {
     color: #AFFF9C 
 }
-
+/* Changes the color of paragraph text to white*/
 p {
     color: white;
 }
-
+/* Changes the color of the Table of contents to white */
 ul {
     color: white
 }
-
+/* Changes the color of links to yellow */
 a {
   color: yellow
 }
-    
+/* Changes the color of the background to a black/brown */    
 body {
     background-color: #281913
 
